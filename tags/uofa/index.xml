@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UofA | HAMZEH&#39;S WEBPAGE</title>
+    <link>https://hamzehkhazaei.github.io/tags/uofa/</link>
+      <atom:link href="https://hamzehkhazaei.github.io/tags/uofa/index.xml" rel="self" type="application/rss+xml" />
+    <description>UofA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@ 2019 Hamzeh Khazaei</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamzehkhazaei.github.io/img/icon-192.png</url>
+      <title>UofA</title>
+      <link>https://hamzehkhazaei.github.io/tags/uofa/</link>
+    </image>
+    
+    <item>
+      <title>University of Alberta</title>
+      <link>https://hamzehkhazaei.github.io/project/uofa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hamzehkhazaei.github.io/project/uofa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
