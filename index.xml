@@ -20,5 +20,29 @@
       <description></description>
     </item>
     
+    <item>
+      <title>EECS 3221</title>
+      <link>https://hamzehkhazaei.github.io/project/ece3221/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hamzehkhazaei.github.io/project/ece3221/</guid>
+      <description>&lt;p&gt;This course is intended to teach students the fundamental concepts that underlie operating systems, including
+multiprogramming, concurrent processes, CPU scheduling, deadlocks, memory management, file systems, protection and
+security. Many examples from real systems are given to illustrate the application of particular concepts. At the end of
+this course, a student will be able to understand the principles and techniques required for understanding and designing
+operating systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EECS 5XXX</title>
+      <link>https://hamzehkhazaei.github.io/project/eecs5xxx/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hamzehkhazaei.github.io/project/eecs5xxx/</guid>
+      <description>&lt;p&gt;Coming Soon.&lt;br&gt;
+This is an introductory course in Distributed Systems. Distributed systems is the study of how to build a computer
+system where the state of the program is divided over more than one machine (or &amp;ldquo;node&amp;rdquo;).&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
