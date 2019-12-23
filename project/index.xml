@@ -5,7 +5,7 @@
     <link>https://hamzehkhazaei.github.io/project/</link>
       <atom:link href="https://hamzehkhazaei.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@ 2019 Hamzeh Khazaei</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@ 2019 Hamzeh Khazaei</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamzehkhazaei.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>https://hamzehkhazaei.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hamzehkhazaei.github.io/project/external-project/</guid>
+      <title>University of Alberta</title>
+      <link>https://hamzehkhazaei.github.io/project/uofa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hamzehkhazaei.github.io/project/uofa/</guid>
       <description></description>
     </item>
     
