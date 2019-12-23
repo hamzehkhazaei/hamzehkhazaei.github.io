@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | HAMZEH&#39;S WEBPAGE</title>
-    <link>https://hamzehkhazaei.github.io/project/</link>
-      <atom:link href="https://hamzehkhazaei.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>York | HAMZEH&#39;S WEBPAGE</title>
+    <link>https://hamzehkhazaei.github.io/tags/york/</link>
+      <atom:link href="https://hamzehkhazaei.github.io/tags/york/index.xml" rel="self" type="application/rss+xml" />
+    <description>York</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@ 2019 Hamzeh Khazaei</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamzehkhazaei.github.io/img/icon-192.png</url>
-      <title>Projects</title>
-      <link>https://hamzehkhazaei.github.io/project/</link>
+      <title>York</title>
+      <link>https://hamzehkhazaei.github.io/tags/york/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://hamzehkhazaei.github.io/project/ece3221/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://hamzehkhazaei.github.io/project/ece3221/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ECE422</title>
-      <link>https://hamzehkhazaei.github.io/project/uofa/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://hamzehkhazaei.github.io/project/uofa/</guid>
       <description></description>
     </item>
     
