@@ -17,7 +17,16 @@
       <link>https://hamzehkhazaei.github.io/project/ece422/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://hamzehkhazaei.github.io/project/ece422/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&amp;catalog=422&amp;previousTerms=True&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span&gt;This course&lt;/span&gt;&lt;/a&gt;
+introduces students to software system reliability engineering and computer security, in two six-week
+modules. In the system reliability module, we will examine the similarities and differences between reliability
+engineering for hardware systems and for software systems, and techniques for achieving software reliability.
+Software fault tolerance mechanisms will be the main focus. In the computer security module, we will examine the
+potential threats to computer system security, and controls for protecting computer systems against both malicious
+and non-malicious compromise. By its nature, computer security extends beyond the domain of software, and encompasses
+the entire environment in which a computer system is embedded. Therefore, this module will examine both software and
+non-software threats and controls.&lt;/p&gt;
+</description>
     </item>
     
     <item>
