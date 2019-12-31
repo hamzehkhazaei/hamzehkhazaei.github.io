@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HAMZEH&#39;S WEBPAGE</title>
-    <link>https://hamzehkhazaei.github.io/</link>
-      <atom:link href="https://hamzehkhazaei.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>HAMZEH&#39;S WEBPAGE</description>
+    <title>Teachings | HAMZEH&#39;S WEBPAGE</title>
+    <link>https://hamzehkhazaei.github.io/teaching/</link>
+      <atom:link href="https://hamzehkhazaei.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@ 2019 Hamzeh Khazaei</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamzehkhazaei.github.io/img/icon-192.png</url>
-      <title>HAMZEH&#39;S WEBPAGE</title>
-      <link>https://hamzehkhazaei.github.io/</link>
+      <title>Teachings</title>
+      <link>https://hamzehkhazaei.github.io/teaching/</link>
     </image>
     
     <item>

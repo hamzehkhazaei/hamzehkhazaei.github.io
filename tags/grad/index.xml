@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>York | HAMZEH&#39;S WEBPAGE</title>
-    <link>https://hamzehkhazaei.github.io/tags/york/</link>
-      <atom:link href="https://hamzehkhazaei.github.io/tags/york/index.xml" rel="self" type="application/rss+xml" />
-    <description>York</description>
+    <title>grad | HAMZEH&#39;S WEBPAGE</title>
+    <link>https://hamzehkhazaei.github.io/tags/grad/</link>
+      <atom:link href="https://hamzehkhazaei.github.io/tags/grad/index.xml" rel="self" type="application/rss+xml" />
+    <description>grad</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@ 2019 Hamzeh Khazaei</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamzehkhazaei.github.io/img/icon-192.png</url>
-      <title>York</title>
-      <link>https://hamzehkhazaei.github.io/tags/york/</link>
+      <title>grad</title>
+      <link>https://hamzehkhazaei.github.io/tags/grad/</link>
     </image>
     
     <item>
-      <title>EECS 3221</title>
-      <link>https://hamzehkhazaei.github.io/teaching/ece3221/</link>
+      <title>ECE720</title>
+      <link>https://hamzehkhazaei.github.io/teaching/ece720/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://hamzehkhazaei.github.io/teaching/ece3221/</guid>
-      <description>&lt;p&gt;This course is intended to teach students the fundamental concepts that underlie operating systems, including
-multiprogramming, concurrent processes, CPU scheduling, deadlocks, memory management, file systems, protection and
-security. Many examples from real systems are given to illustrate the application of particular concepts. At the end of
-this course, a student will be able to understand the principles and techniques required for understanding and designing
-operating systems.&lt;/p&gt;
-</description>
+      <guid>https://hamzehkhazaei.github.io/teaching/ece720/</guid>
+      <description></description>
     </item>
     
     <item>
