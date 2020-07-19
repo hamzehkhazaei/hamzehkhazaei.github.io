@@ -47,5 +47,18 @@ system where the state of the program is divided over more than one machine (or 
 </description>
     </item>
     
+    <item>
+      <title>EECS 6446</title>
+      <link>https://hamzehkhazaei.github.io/teaching/eecs6446/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hamzehkhazaei.github.io/teaching/eecs6446/</guid>
+      <description>&lt;p&gt;Coming Soon.&lt;br&gt;
+In distributed systems, one can choose from a variety of load balancing policies, a wide range of migration policies,
+capacity provisioning schemes, power management policies, etc. Ideally, one would like to have answers to these questions
+before investing the time and money to build a system. This course introduces students to stochastic and queuing
+modeling to answer the above questions.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
