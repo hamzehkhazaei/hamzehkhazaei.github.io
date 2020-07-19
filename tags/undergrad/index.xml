@@ -17,9 +17,10 @@
       <link>https://hamzehkhazaei.github.io/teaching/eecs2011/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://hamzehkhazaei.github.io/teaching/eecs2011/</guid>
-      <description>&lt;p&gt;Coming Soon.&lt;br&gt;
-This is an introductory course in Distributed Systems. Distributed systems is the study of how to build a computer
-system where the state of the program is divided over more than one machine (or &amp;ldquo;node&amp;rdquo;).&lt;/p&gt;
+      <description>&lt;p&gt;This course discusses the fundamental data structures commonly used in the design of algorithms.
+At the end of this course, students will know the classical data structures, and master the use of abstraction,
+specification and program construction using modules. Furthermore, students will be able to apply these skills
+effectively in the design and implementation of algorithms.&lt;/p&gt;
 </description>
     </item>
     
