@@ -14,6 +14,19 @@
     
     <item>
       <title>EECS 3221</title>
+      <link>https://hamzehkhazaei.github.io/teaching/eecs2011/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hamzehkhazaei.github.io/teaching/eecs2011/</guid>
+      <description>&lt;p&gt;This course is intended to teach students the fundamental concepts that underlie operating systems, including
+multiprogramming, concurrent processes, CPU scheduling, deadlocks, memory management, file systems, protection and
+security. Many examples from real systems are given to illustrate the application of particular concepts. At the end of
+this course, a student will be able to understand the principles and techniques required for understanding and designing
+operating systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EECS 3221</title>
       <link>https://hamzehkhazaei.github.io/teaching/eecs3221/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://hamzehkhazaei.github.io/teaching/eecs3221/</guid>
