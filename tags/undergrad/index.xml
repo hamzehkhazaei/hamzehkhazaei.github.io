@@ -13,27 +13,10 @@
     </image>
     
     <item>
-      <title>ECE422</title>
-      <link>https://hamzehkhazaei.github.io/teaching/ece422/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://hamzehkhazaei.github.io/teaching/ece422/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&amp;catalog=422&amp;previousTerms=True&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span&gt;This course&lt;/span&gt;&lt;/a&gt;
-introduces students to software system reliability engineering and computer security, in two six-week
-modules. In the system reliability module, we will examine the similarities and differences between reliability
-engineering for hardware systems and for software systems, and techniques for achieving software reliability.
-Software fault tolerance mechanisms will be the main focus. In the computer security module, we will examine the
-potential threats to computer system security, and controls for protecting computer systems against both malicious
-and non-malicious compromise. By its nature, computer security extends beyond the domain of software, and encompasses
-the entire environment in which a computer system is embedded. Therefore, this module will examine both software and
-non-software threats and controls.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>EECS 3221</title>
-      <link>https://hamzehkhazaei.github.io/teaching/ece3221/</link>
+      <link>https://hamzehkhazaei.github.io/teaching/eecs3221/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://hamzehkhazaei.github.io/teaching/ece3221/</guid>
+      <guid>https://hamzehkhazaei.github.io/teaching/eecs3221/</guid>
       <description>&lt;p&gt;This course is intended to teach students the fundamental concepts that underlie operating systems, including
 multiprogramming, concurrent processes, CPU scheduling, deadlocks, memory management, file systems, protection and
 security. Many examples from real systems are given to illustrate the application of particular concepts. At the end of
@@ -43,10 +26,10 @@ operating systems.&lt;/p&gt;
     </item>
     
     <item>
-      <title>EECS 5XXX</title>
-      <link>https://hamzehkhazaei.github.io/teaching/eecs5xxx/</link>
+      <title>EECS 4XXX</title>
+      <link>https://hamzehkhazaei.github.io/teaching/eecs4xxx/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://hamzehkhazaei.github.io/teaching/eecs5xxx/</guid>
+      <guid>https://hamzehkhazaei.github.io/teaching/eecs4xxx/</guid>
       <description>&lt;p&gt;Coming Soon.&lt;br&gt;
 This is an introductory course in Distributed Systems. Distributed systems is the study of how to build a computer
 system where the state of the program is divided over more than one machine (or &amp;ldquo;node&amp;rdquo;).&lt;/p&gt;
