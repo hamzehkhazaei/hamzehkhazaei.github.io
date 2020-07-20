@@ -2,8 +2,8 @@
   "name": "HAMZEH&#39;S WEBPAGE",
   "short_name": "HAMZEH&#39;S WEBPAGE",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#E31837",
+  "background_color": "#E31837",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
