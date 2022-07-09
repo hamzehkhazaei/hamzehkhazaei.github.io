@@ -1,0 +1,18 @@
+{
+  "name": "HAMZEH'S WEBPAGE",
+  "short_name": "HAMZEH'S WEBPAGE",
+  "lang": "en-us",
+  "theme_color": "#E31837",
+  "background_color": "#E31837",
+  "icons": [{
+    "src": "../img/icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "../img/icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

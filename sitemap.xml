@@ -1,83 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://hamzehkhazaei.github.io/teaching/eecs2011/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/tags/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/teaching/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/tags/undergrad/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/teaching/eecs3221/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/teaching/eecs4222/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/teaching/eecs4415/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/teaching/eecs6446/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/tags/grad/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/publication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hamzehkhazaei.github.io/talk/</loc>
   </url>
-  
 </urlset>
