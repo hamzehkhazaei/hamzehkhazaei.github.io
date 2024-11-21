@@ -5,12 +5,26 @@
     <link>https://hamzehkhazaei.github.io/authors/admin/</link>
       <atom:link href="https://hamzehkhazaei.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>HAMZEH&#39;S WEBPAGE</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@ 2019 Hamzeh Khazaei</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@ 2023 Hamzeh Khazaei</copyright>
     <image>
       <url>https://hamzehkhazaei.github.io/img/icon-192.png</url>
       <title>HAMZEH&#39;S WEBPAGE</title>
       <link>https://hamzehkhazaei.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://hamzehkhazaei.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hamzehkhazaei.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am an Associate Professor of computer science at York University. I lead
+the &lt;a href=&#34;https://pacs.eecs.yorku.ca&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span&gt;Performant and Available
+Computing Systems (PACS) Lab&lt;/span&gt;&lt;/a&gt;
+in which we analyze, model and design dependable software systems. If you are a prospective applicant or interested
+to learn more about my work please check the
+&lt;a href=&#34;https://pacs.eecs.yorku.ca&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span&gt;PACS Lab&lt;/span&gt;&lt;/a&gt; page.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
