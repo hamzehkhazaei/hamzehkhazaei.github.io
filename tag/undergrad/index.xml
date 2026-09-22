@@ -1,61 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Undergrad | HAMZEH&#39;S WEBPAGE</title>
-    <link>http://localhost:1313/tag/undergrad/</link>
-      <atom:link href="http://localhost:1313/tag/undergrad/index.xml" rel="self" type="application/rss+xml" />
-    <description>Undergrad</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_40552dad48dcc3d3.png</url>
-      <title>Undergrad</title>
-      <link>http://localhost:1313/tag/undergrad/</link>
-    </image>
-    
-    <item>
-      <title>EECS 2011</title>
-      <link>http://localhost:1313/teaching/eecs2011/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/eecs2011/</guid>
-      <description>&lt;p&gt;This course discusses the fundamental data structures commonly used in the design of algorithms.
-At the end of this course, students will know the classical data structures, and master the use of abstraction,
-specification and program construction using modules. Furthermore, students will be able to apply these skills
-effectively in the design and implementation of algorithms.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EECS 3221</title>
-      <link>http://localhost:1313/teaching/eecs3221/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/eecs3221/</guid>
-      <description>&lt;p&gt;This course is intended to teach students the fundamental concepts that underlie operating systems, including
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Undergrad | HAMZEH'S WEBPAGE</title><link>https://hamzehkhazaei.github.io/tag/undergrad/</link><atom:link href="https://hamzehkhazaei.github.io/tag/undergrad/index.xml" rel="self" type="application/rss+xml"/><description>Undergrad</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate><image><url>https://hamzehkhazaei.github.io/media/icon_hu_40552dad48dcc3d3.png</url><title>Undergrad</title><link>https://hamzehkhazaei.github.io/tag/undergrad/</link></image><item><title>EECS 4224</title><link>https://hamzehkhazaei.github.io/teaching/eecs4224/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><guid>https://hamzehkhazaei.github.io/teaching/eecs4224/</guid><description>&lt;p&gt;This course analyzes the systems engineering principles required to build, deploy, and maintain machine
+learning systems at scale. It examines the architecture of data pipelines, distributed training strategies,
+and low-latency model serving frameworks. Students evaluate trade-offs between computational efficiency,
+scalability, and reliability while gaining hands-on experience with hardware accelerators and cloud-based ML
+infrastructure. Prerequisites: LE/EECS 3221 3.00 and (LE/EECS 3404 3.00 or LE/EECS 3405 3.00 or LE/CSSD 3131
+3.00).&lt;/p&gt;
+&lt;p&gt;This course focuses on the design and implementation of machine learning systems in production settings, with
+an emphasis on scalability, performance, and reliability. It covers the end-to-end ML lifecycle, including data
+ingestion, feature engineering, distributed training, model evaluation, and deployment. Students explore
+system-level challenges such as resource management, fault tolerance, and hardware acceleration (e.g., GPUs),
+as well as trade-offs between latency, throughput, and cost in cloud environments.&lt;/p&gt;
+&lt;p&gt;The course adopts a systems-oriented perspective, drawing on concepts from distributed systems and software
+engineering. Students engage with modern ML infrastructure and frameworks, and complete programming
+assignments and a substantial project that involves building and optimizing components of real-world ML
+systems. Case studies from industry and recent research are used to illustrate practical design patterns and
+emerging trends in ML systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tentative topics:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to ML systems: overview of the ML system lifecycle; model-centric vs. system-centric
+perspectives; case studies of production ML systems.&lt;/li&gt;
+&lt;li&gt;Data pipelines and feature engineering systems: data ingestion, preprocessing, feature stores, data
+validation, and pipeline orchestration.&lt;/li&gt;
+&lt;li&gt;Storage systems for ML: distributed storage, data formats, batch vs. streaming systems, data locality.&lt;/li&gt;
+&lt;li&gt;Distributed training: parallelism strategies (data, model, pipeline parallelism), distributed ML frameworks,
+parameter servers, all-reduce, communication efficiency, and fault tolerance.&lt;/li&gt;
+&lt;li&gt;Hardware acceleration: GPUs, TPUs and accelerators, memory hierarchies, performance optimization techniques.&lt;/li&gt;
+&lt;li&gt;Model serving systems: batch vs. online inference, serving architectures, serverless vs. serverful, latency,
+throughput, and scaling challenges.&lt;/li&gt;
+&lt;li&gt;Caching, optimization, and resource management: caching strategies, scheduling, autoscaling, quantization,
+pruning, distillation, and cost-performance trade-offs in cloud environments.&lt;/li&gt;
+&lt;li&gt;ML system reliability and monitoring: logging, monitoring, debugging, and system failures.&lt;/li&gt;
+&lt;li&gt;Edge computing and mobile ML: edge computing architecture, model compression, on-device inference frameworks,
+federated learning.&lt;/li&gt;
+&lt;li&gt;MLOps and continuous deployment: CI/CD for ML, model lifecycle management, governance, and ethical
+considerations.&lt;/li&gt;
+&lt;li&gt;Emerging topics: foundation models, distributed inference, serverless ML, and student project presentations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By the end of this course, students will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and implement end-to-end machine learning systems architecture.&lt;/li&gt;
+&lt;li&gt;Engineer scalable data pipelines for ML workloads.&lt;/li&gt;
+&lt;li&gt;Deploy and monitor ML models in production environments.&lt;/li&gt;
+&lt;li&gt;Implement testing and quality assurance practices for ML systems.&lt;/li&gt;
+&lt;li&gt;Optimize ML systems for performance and cost-effectiveness.&lt;/li&gt;
+&lt;li&gt;Apply MLOps practices to ensure reproducibility and maintainability of ML systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This new course will be offered starting Fall 2027.&lt;/p&gt;</description></item><item><title>EECS 3221</title><link>https://hamzehkhazaei.github.io/teaching/eecs3221/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://hamzehkhazaei.github.io/teaching/eecs3221/</guid><description>&lt;p&gt;This course is intended to teach students the fundamental concepts that underlie operating systems, including
 multiprogramming, concurrent processes, CPU scheduling, deadlocks, memory management, file systems, protection and
 security. Many examples from real systems are given to illustrate the application of particular concepts. At the end of
 this course, a student will be able to understand the principles and techniques required for understanding and designing
 operating systems.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EECS 4222</title>
-      <link>http://localhost:1313/teaching/eecs4222/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/eecs4222/</guid>
-      <description>&lt;p&gt;Coming Soon.&lt;br&gt;
-This is an introductory course in Distributed Systems. Distributed systems is the study of how to build a computer
-system where the state of the program is divided over more than one machine (or &amp;ldquo;node&amp;rdquo;).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EECS 4415</title>
-      <link>http://localhost:1313/teaching/eecs4415/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/eecs4415/</guid>
-      <description>&lt;p&gt;Storing, managing, and processing datasets are foundational to both computer science and data science. The enormous size of today&amp;rsquo;s data sets and the specific requirements of modern applications, necessitated the growth of a new generation of data management systems, where the emphasis is put on distributed and fault-tolerant processing. New programming paradigms have evolved, an abundance of information platforms offering data management and analysis solutions appeared and a number of novel methods and tools have been developed. This course introduces the fundamentals of big data storage, retrieval, and processing systems. As these fundamentals are introduced, exemplary technologies are used to illustrate how big data systems can leverage very large data sets that become available through multiple sources and are characterized by diverse levels of volume (terabytes; billion records), velocity (batch; real-time; streaming) and variety (structured; semi-structured; unstructured). The course aims to provide students with both theoretical knowledge and practical experience of the field by covering recent research on big data systems and their basic properties. Students consider both small and large datasets because both are equally important and justify different trade-offs. Topics include: software frameworks for distributed storage and processing of very large data sets, MapReduce programming model, querying of structured data sets, column stores, key-value stores, document stores, graph databases, distributed stream processing frameworks.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;I have been teaching this course every year since 2019.&lt;/p&gt;</description></item><item><title>EECS 4222</title><link>https://hamzehkhazaei.github.io/teaching/eecs4222/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://hamzehkhazaei.github.io/teaching/eecs4222/</guid><description>&lt;p&gt;This is an introductory course in Distributed Computing Systems. This course is the study of how to design and
+implement a computer system where the state of the system is divided over multiple computing nodes. More
+specifically, this course teaches design and implementation techniques that enable the building of functional,
+usable, fast, fault-tolerant and scalable distributed systems. To make the issues more concrete, the class
+includes two projects requiring significant design and implementation which enable students to gain practical
+experience in designing, implementing, and debugging real distributed systems.&lt;/p&gt;
+&lt;p&gt;In this course we use the Go programming language, which was designed for implementing distributed systems.
+For the most part, students learn this language on their own, with the TAs covering the fundamentals of Go and
+then practicing the language through the course projects during the biweekly labs.&lt;/p&gt;
+&lt;p&gt;Topics include distributed communication models (e.g., sockets, remote procedure calls, distributed shared
+memory), distributed synchronization (clock synchronization, logical clocks, distributed mutex), distributed
+file systems, replication, consistency models, fault tolerance, QoS and performance, scheduling, concurrency,
+agreement and commitment, Paxos-based consensus, MapReduce and NoSQL datastores, decentralized systems, cloud
+infrastructures, microservices, and serverless computing.&lt;/p&gt;
+&lt;p&gt;By the end of this course, students will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply communication protocols such as remote procedure calls, taking into account control semantics and
+language limitations; implement serialization and de-serialization; apply the end-to-end argument in real
+systems.&lt;/li&gt;
+&lt;li&gt;Analyze data caching and one-copy semantics, cache consistency protocols and implementation tradeoffs, and
+temporal and spatial locality.&lt;/li&gt;
+&lt;li&gt;Trace failures in distributed systems using empirical studies such as fail-fast and Byzantine failures, and
+identify fundamental limits of failure resilience.&lt;/li&gt;
+&lt;li&gt;Explain how to achieve consensus using unanimity (two-phase commit) and majority (leader election, Paxos).&lt;/li&gt;
+&lt;li&gt;Design and implement highly available systems using the basic concepts of replication with the latest
+paradigms and design patterns in distributed cloud systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have been teaching this course every year since 2019.&lt;/p&gt;</description></item></channel></rss>

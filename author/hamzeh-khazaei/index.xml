@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hamzeh Khazaei | HAMZEH&#39;S WEBPAGE</title>
-    <link>http://localhost:1313/author/hamzeh-khazaei/</link>
-      <atom:link href="http://localhost:1313/author/hamzeh-khazaei/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hamzeh Khazaei</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>http://localhost:1313/author/hamzeh-khazaei/avatar_hu_553cd6883c789df9.jpg</url>
-      <title>Hamzeh Khazaei</title>
-      <link>http://localhost:1313/author/hamzeh-khazaei/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hamzeh Khazaei | HAMZEH'S WEBPAGE</title><link>https://hamzehkhazaei.github.io/author/hamzeh-khazaei/</link><atom:link href="https://hamzehkhazaei.github.io/author/hamzeh-khazaei/index.xml" rel="self" type="application/rss+xml"/><description>Hamzeh Khazaei</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://hamzehkhazaei.github.io/author/hamzeh-khazaei/avatar_hu_553cd6883c789df9.jpg</url><title>Hamzeh Khazaei</title><link>https://hamzehkhazaei.github.io/author/hamzeh-khazaei/</link></image></channel></rss>

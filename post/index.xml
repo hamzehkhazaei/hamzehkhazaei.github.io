@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts | HAMZEH&#39;S WEBPAGE</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_40552dad48dcc3d3.png</url>
-      <title>Posts</title>
-      <link>http://localhost:1313/post/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | HAMZEH'S WEBPAGE</title><link>https://hamzehkhazaei.github.io/post/</link><atom:link href="https://hamzehkhazaei.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://hamzehkhazaei.github.io/media/icon_hu_40552dad48dcc3d3.png</url><title>Posts</title><link>https://hamzehkhazaei.github.io/post/</link></image></channel></rss>
